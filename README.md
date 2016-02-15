@@ -23,7 +23,7 @@ like `package.json` for JavaScript, `Gemfile` for Ruby, and `POM.xml` for Java.
 Each folder has a `README` file that describes how to get started with Cucumber,
 install dependencies, and write tests.
 
-## I don't like these. I want to make better ones?
+## I don't like these. I want to make better ones.
 
 Please do open issues, ask questions, and improve this stuff in any way you like!
 Thanks for reading!

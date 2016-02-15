@@ -5,7 +5,8 @@ functional testing framework in a bunch of languages:
 
 - [JavaScript](https://github.com/skylineproject/cucumber-boilerplate/tree/master/js)
 - [Java](https://github.com/skylineproject/cucumber-boilerplate/tree/master/java)
-- [Ruby](https://github.com/skylineproject/cucumber-boilerplate/tree/master/ruby)
+- [Ruby]()
+(not yet implemented)
 
 ## Why use Cucumber?
 

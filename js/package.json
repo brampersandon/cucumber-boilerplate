@@ -1,0 +1,16 @@
+{
+  "name": "gedney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cucumber": "0.0.17",
+    "zombie": "^4.2.1"
+  }
+}

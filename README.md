@@ -3,9 +3,9 @@
 This repository contains basic configurations of the [Cucumber](https://cucumber.io)
 functional testing framework in a bunch of languages:
 
-- [JavaScript]()
-- [Java]()
-- [Ruby]()
+- [JavaScript](https://github.com/skylineproject/cucumber-boilerplate/tree/master/js)
+- [Java](https://github.com/skylineproject/cucumber-boilerplate/tree/master/java)
+- [Ruby](https://github.com/skylineproject/cucumber-boilerplate/tree/master/ruby)
 
 ## Why use Cucumber?
 

@@ -11,6 +11,12 @@ A JavaScript project including dependencies for use with [Cucumber](https://cucu
 
 `npm install`
 
+## Write tests
+
+Place [features](https://cucumber.io/docs/reference#gherkin) in `features`.
+
+Place [step definitions](https://github.com/cucumber/cucumber-js) in `features/steps`.
+
 ## Run tests
 
 `npm test`
